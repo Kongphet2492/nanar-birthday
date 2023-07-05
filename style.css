@@ -172,7 +172,8 @@ p {
  color: #333;
  text-align: center;
  margin: 30px;
- outline-color: #333;
+ outline-color: #ef476f;
+ /* outline-color: #ef476f */
  outline-style: dashed;
 }
 
